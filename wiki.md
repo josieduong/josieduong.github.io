@@ -36,5 +36,5 @@ The Kirby series encompasses numerous titles across various Nintendo consoles, r
 
 ### **References**
 1. [Kirby Fandom Wiki](https://kirby.fandom.com/wiki/Kirby)
-2. [Official Nintendo Cite | Games and Characters](https://kirby.nintendo.com/about/)
+2. [Official Nintendo Kirby Games and Characters](https://kirby.nintendo.com/about/)
 3. [Kirby Complete Guide](https://www.blippo.com/blogs/characters/kirby?srsltid=AfmBOooIeeW7V2x0Ns7QCMrJ-uEKiXgPh-1kOkLn8xADfBVQ7BRATeTl)
